@@ -1,4 +1,4 @@
-## Blockchain Project
+# Blockchain
 
 This project is a simple implementation of a blockchain in Java. It demonstrates the basic concepts of blockchain technology, including blocks, hashing, and proof of work.
 
